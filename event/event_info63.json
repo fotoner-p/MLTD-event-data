@@ -1,0 +1,11 @@
+{
+	"id": 63,
+	"type": 1,
+	"schedule": {
+		"beginDate": "2018-11-30T15:00:00+09:00",
+		"endDate": "2018-12-03T23:59:59+09:00",
+		"pageBeginDate": "2018-11-30T15:00:00+09:00",
+		"pageEndDate": "2018-12-04T14:59:59+09:00"
+	},
+	"name": "THEATER SHOW TIME☆"
+}

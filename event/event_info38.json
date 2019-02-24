@@ -1,0 +1,11 @@
+{
+	"id": 38,
+	"type": 1,
+	"schedule": {
+		"beginDate": "2018-01-27T15:00:00+09:00",
+		"endDate": "2018-01-29T20:59:59+09:00",
+		"pageBeginDate": "2018-01-27T15:00:00+09:00",
+		"pageEndDate": "2018-01-31T14:59:59+09:00"
+	},
+	"name": "THEATER SHOW TIME☆"
+}

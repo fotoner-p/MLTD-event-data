@@ -1,0 +1,13 @@
+{
+	"id": 17,
+	"type": 4,
+	"schedule": {
+		"beginDate": "2017-12-21T15:00:00+09:00",
+		"endDate": "2017-12-29T20:59:59+09:00",
+		"pageBeginDate": "2017-12-21T15:00:00+09:00",
+		"pageEndDate": "2017-12-31T14:59:59+09:00",
+		"boostBeginDate": "2017-12-25T15:00:00+09:00",
+		"boostEndDate": "2017-12-29T20:59:59+09:00"
+	},
+	"name": "プラチナスターツアー～Princess Be Ambitious!!～"
+}

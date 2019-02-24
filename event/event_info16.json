@@ -1,0 +1,11 @@
+{
+	"id": 16,
+	"type": 2,
+	"schedule": {
+		"beginDate": "2017-12-13T15:00:00+09:00",
+		"endDate": "2017-12-19T20:59:59+09:00",
+		"pageBeginDate": "2017-12-13T15:00:00+09:00",
+		"pageEndDate": "2017-12-21T14:59:59+09:00"
+	},
+	"name": "ミリコレ！～MILLIONLIVE COLLECTION～"
+}

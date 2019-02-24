@@ -1,0 +1,14 @@
+{
+	"id": 56,
+	"type": 3,
+	"appealType": 2,
+	"schedule": {
+		"beginDate": "2018-10-03T15:00:00+09:00",
+		"endDate": "2018-10-11T20:59:59+09:00",
+		"pageBeginDate": "2018-10-03T15:00:00+09:00",
+		"pageEndDate": "2018-10-13T14:59:59+09:00",
+		"boostBeginDate": "2018-10-07T15:00:00+09:00",
+		"boostEndDate": "2018-10-11T20:59:59+09:00"
+	},
+	"name": "プラチナスターシアター～Starry Melody～"
+}

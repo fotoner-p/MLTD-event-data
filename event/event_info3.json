@@ -1,0 +1,11 @@
+{
+	"id": 3,
+	"type": 1,
+	"schedule": {
+		"beginDate": "2017-07-31T15:00:00+09:00",
+		"endDate": "2017-08-07T20:59:59+09:00",
+		"pageBeginDate": "2017-07-31T15:00:00+09:00",
+		"pageEndDate": "2017-08-12T14:59:59+09:00"
+	},
+	"name": "THEATER SHOW TIME☆"
+}
