@@ -17,7 +17,7 @@ theater_point = [[0, 0, 0, 290501, 250399, 491447, 711803, 1032211, 1126660, 493
 
 ranking = ["#100", "#2500(2000)", "#5000", "#10000", "#25000(20000)", "#50000"]
 
-for i in range(33, 75, 1):
+for i in range(76, 93, 1):
     print(i)
 
     with open('./event/event_info' + str(i) + '.json', 'r', encoding="utf-8") as read_file:

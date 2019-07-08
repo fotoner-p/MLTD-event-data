@@ -1,7 +1,14 @@
 import requests
 import json
+from time import sleep
+for i in range(76, 93, 1):
+    sleep(0.5)
+    resp = requests.get("https://api.matsurihi.me/mltd/v1/events/" + str(i))
+    info_json = resp.json()
 
-for i in range(1, 75, 1):
+    with open('./event/event_info' + str(i) + '.json', 'w', encoding="utf-8") as make_file:
+        json.dump(info_json, make_file, ensure_ascii=False, indent="\t")
+
     with open('./event/event_info' + str(i) + '.json', 'r', encoding="utf-8") as read_file:
         cur_event_data = json.load(read_file)
     if len(cur_event_data) == 4 or len(cur_event_data) == 5:
@@ -27,3 +34,4 @@ for i in range(1, 75, 1):
             borders_json = resp.json()
             with open('./event/event_border' + str(i) + '.json', 'w', encoding="utf-8") as make_file:
                 json.dump(borders_json, make_file, ensure_ascii=False, indent="\t")
+
